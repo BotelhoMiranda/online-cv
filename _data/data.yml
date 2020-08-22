@@ -9,12 +9,12 @@ sidebar:
     # Profile information
     name: Leandro Miranda
     tagline: Data Scientist
-    avatar: https://media-exp1.licdn.com/dms/image/C4E03AQG8SWe4AWbxsw/profile-displayphoto-shrink_200_200/0?e=1603324800&v=beta&t=c6e6vwHPhxolfXBWjiQZ7PrwHXL3IW8dResP1Gkx2yY #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar:leandro.jpeg #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: leandrobotelhoalves@gmail.com
     phone: +55 82 99113-2257
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: https://www.linkedin.com/in/leandrobotelhodemiranda/
     github: botelhoMiranda
     telegram: # add your nickname without '@' sign
