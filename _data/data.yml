@@ -49,37 +49,31 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profil
+    title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      He has a BSc degree in Computer Science at the Federal University of Alagoas, Brazil, which included researchers in Pattern Recognition and Computer Graphics. Currently MSc and Doctoral Student in Computer Science at Fluminense Federal University, Brazil. His master’s research was in clustering algorithms, emphasis about spatially constrained clustering. He has experience in Computer Science, focusing on Pattern Recognition, Data Mining, and Machine Learning.  In this scenario, he has published many papers, with many undergraduate degrees in progress. He was a Research Engineer in Pattern Recognition and Computer Vision fields in ISABO enterprise. During this period, his research focused on people fall detection issues under RGB images and object segmentation of RGBD images. He is currently working on research involving the Ambient Intelligence, principally in Context Reasonings for Human Activity Recognition on Context-Aware computing. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Msc in Computer Science
+      university: Fluminense Federal University
+      time: 2014 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Ttile:Análise de Clusters com Restrições de Contiguidade
+Espacial (Clusters Analysis with Spatially Contiguity
+Constraints).
+
+        Regionalization embraces many problems in which the recognition and analysis of patterns in geographic regions is necessary. Clustering techniques and some optimization methods offer algorithms and tools to facilitate this task, and AZP (Automatic Zoning Problem) is one of these optimization methods. In this work, we use semi-supervised clustering by adapting K-Means for regionalization, which was not previously explored. For this purpose, we specified contiguity constraints based on a neighborhood representation. The proposed algorithm is called RegK-Means. Experimental results using three real datasets show improvement in intra-cluster variance, minimization of objective function and computational time improvement compared to AZP.
+
+          Advisor: José Viterbo Filho
+          Co-Advisor: Flávia Bernardini
+
+    - degree: BSc in Computer Science
+      university: Federal University of Alagoas
+      time: 2010 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Title: Reconhecimento de Poses em Tempo Real Usando Imagens de Profundidade e SVM (Pose Recognition in real time using depth images and SVM).
+          - Advisor: Thales Vieira
+          
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
