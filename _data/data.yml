@@ -39,13 +39,15 @@ sidebar:
         level: Native
 
     interests:
-      - item: Pro Evolution Soccer
+      - item: Data Science
         link:
 
-      - item: Sports
+      - item: Machine Learning
         link:
 
-      - item: Research
+      - item: Data Mining
+        link:
+      - item: Pattern Recognition
         link:
 
 career-profile:
@@ -53,29 +55,32 @@ career-profile:
     summary: |
       He has a BSc degree in Computer Science at the Federal University of Alagoas, Brazil, which included researchers in Pattern Recognition and Computer Graphics. Currently MSc and Doctoral Student in Computer Science at Fluminense Federal University, Brazil. His master’s research was in clustering algorithms, emphasis about spatially constrained clustering. He has experience in Computer Science, focusing on Pattern Recognition, Data Mining, and Machine Learning.  In this scenario, he has published many papers, with many undergraduate degrees in progress. He was a Research Engineer in Pattern Recognition and Computer Vision fields in ISABO enterprise. During this period, his research focused on people fall detection issues under RGB images and object segmentation of RGBD images. He is currently working on research involving the Ambient Intelligence, principally in Context Reasonings for Human Activity Recognition on Context-Aware computing. 
 education:
+    - degree: PhD in Computer Science
+      university: Fluminense Federal University
+      time: 2016 - now
+      details: |
+        Title: A Framework for Adaptive Recognition of Complex Human Activities in Ambient Intelligence
+          - Advisor= José Viterbo Filho
+          - Co-advisor= Flávia Bernardini
+
     - degree: Msc in Computer Science
       university: Fluminense Federal University
       time: 2014 - 2016
       details: |
-        Ttile:Análise de Clusters com Restrições de Contiguidade
-Espacial (Clusters Analysis with Spatially Contiguity
-Constraints).
-
-        Regionalization embraces many problems in which the recognition and analysis of patterns in geographic regions is necessary. Clustering techniques and some optimization methods offer algorithms and tools to facilitate this task, and AZP (Automatic Zoning Problem) is one of these optimization methods. In this work, we use semi-supervised clustering by adapting K-Means for regionalization, which was not previously explored. For this purpose, we specified contiguity constraints based on a neighborhood representation. The proposed algorithm is called RegK-Means. Experimental results using three real datasets show improvement in intra-cluster variance, minimization of objective function and computational time improvement compared to AZP.
-
-          Advisor: José Viterbo Filho
-          Co-Advisor: Flávia Bernardini
+        Title: Análise de Clusters com Restrições de Contiguidade Espacial (Clusters Analysis with Spatially Contiguity Constraints).
+          - Advisor= José Viterbo Filho
+          - Co-advisor= Flávia Bernardini
 
     - degree: BSc in Computer Science
       university: Federal University of Alagoas
       time: 2010 - 2014
       details: |
         Title: Reconhecimento de Poses em Tempo Real Usando Imagens de Profundidade e SVM (Pose Recognition in real time using depth images and SVM).
-          - Advisor: Thales Vieira
+          - Advisor = Thales Vieira
           
 
 experiences:
-    - role: Lead Developer
+    - role: Researcher Enginner 
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
