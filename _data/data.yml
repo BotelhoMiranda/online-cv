@@ -79,8 +79,8 @@ education:
           
 
 experiences:
-     - role: Researcher Enginner
-     time: 2019 - 2020
+    - role: Lead Developer
+      time: 2019 - 2020
       company: ISABO, Lille, France
       details: | 
      Junior Researcher Enginner. He was a Research Engineer 
@@ -91,7 +91,7 @@ experiences:
           - Deep Learning
           - RGBD Images
           
-    - role: Content Teacher.
+  - role: Content Teacher.
       time: present
       company: Sagah, Porto Alegre, RS, Brazil
       details: |
