@@ -167,23 +167,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python (Pandas, numpy, Tensorflow)
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
 
-      - name: Angular
-        level: 98%
+      - name: C++
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: HTML & CSS
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: PHP
+        level: 50%
 
       - name: Sketch & Photoshop
-        level: 60%
+     
+     - name: Tableau, JMP
+        level: 50%
+
+      - name: Android
+        level: 30%
 
 
 footer: >
