@@ -75,8 +75,7 @@ education:
       time: 2010 - 2014
       details: |
         Title: Reconhecimento de Poses em Tempo Real Usando Imagens de Profundidade e SVM (Pose Recognition in real time using depth images and SVM).
-          - Advisor = Thales Vieira
-          
+          - Advisor = Thales Vieira       
 experiences:
     - role: Lead Developer
       time: 2015 - Present
