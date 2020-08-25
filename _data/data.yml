@@ -167,7 +167,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python (Pandas, Numpy, Seaborn and Tensorflow, Scikit-learn, Multiflow)
+      - name: Python (Pandas, Numpy, Seaborn, Tensorflow, Scikit Learn and Scikit Multiflow)
         level: 98%
 
       - name: C++
