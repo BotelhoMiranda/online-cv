@@ -171,10 +171,13 @@ skills:
         level: 98%
 
       - name: C++
-
-      - name: Java
+        level: 98%
       
+      - name: Java
+        level: 98%
+        
       - name: Photoshop
+        level: 98%
     
       - name: HTML5 & CSS
         level: 50%
