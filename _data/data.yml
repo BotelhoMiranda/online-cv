@@ -165,28 +165,19 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: Python (Pandas, numpy, Tensorflow)
-
       - name: Java
-
       - name: C++
-
       - name: HTML & CSS
         level: 50%
-
       - name: PHP
         level: 50%
-
-      - name: Sketch & Photoshop
-     
+      - name: Photoshop
      - name: Tableau, JMP
         level: 50%
-
       - name: Android
         level: 30%
-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
