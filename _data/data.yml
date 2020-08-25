@@ -99,7 +99,7 @@ projects:
     assignments:
       - title: GestureRecognition
         link: "https://www.youtube.com/watch?v=EP59BBtPiHk"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Real-time gesture recognition from depth data and SVM"
 
 skills:
     title: Skills &amp; Proficiency
