@@ -184,10 +184,13 @@ skills:
     
       - name: Kubernates (loading)
         level: 40%
+        
       - name: Docker (loading)
         level: 40%
+        
       - name: JMP, Tableau
         level: 40%
+        
       - name: Android
         level: 30%
         
