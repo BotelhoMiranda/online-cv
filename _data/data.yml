@@ -16,9 +16,9 @@ sidebar:
     phone: +55 82 99113-2257
     website:  #do not add http://
     linkedin: /leandrobotelhodemiranda/
-    github: botelhoMiranda
+    github: BotelhoMiranda
     telegram: # add your nickname without '@' sign
-    bitbucket: https://bitbucket.org/leandromiranda/
+    bitbucket: leandromiranda
     twitter: '@leobotelho92'
     stack-overflow: 203285/leandro-miranda # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -82,17 +82,18 @@ experiences:
     - role: Researcher Enginner 
       time: 2019 - 2020
       company: ISABO, Lille, France
-      details: | Junior Researcher Enginner
+      details: | Junior Researcher Enginner.
         He was a Research Engineer in Pattern Recognition and Computer Vision fields. During this period,  his research had been focused on people fall detection issues and object segmentation of RGBD images.
           - Vision Computer
           - Deep Learning
           - RGBD Images
-    - role: Content Teacher
+          
+    - role: Content Teacher.
       time: present
       company: Sagah, Porto Alegre, RS, Brazil
       details: |
-        Content teacher of the learning unit: "Preparation and exploratory data analysis." :
-    - role: Content Teacher
+        Content teacher of the learning unit: "Preparation and exploratory data analysis." 
+    - role: Content Teacher.
       time: 2018-2018
       company: Questóes Discursivas, Rio de Janeiro, RJ, Brazil
       details: |
