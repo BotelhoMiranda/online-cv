@@ -82,8 +82,9 @@ experiences:
     - role: Researcher Enginner 
       time: 2019 - 2020
       company: ISABO, Lille, France
-      details: | Junior Researcher Enginner.
-        He was a Research Engineer in Pattern Recognition and Computer Vision fields. During this period,  his research had been focused on people fall detection issues and object segmentation of RGBD images.
+      details: | 
+      Junior Researcher Enginner.
+      He was a Research Engineer in Pattern Recognition and Computer Vision fields. During this period, his research had been focused on people fall detection issues and object segmentation of RGBD images.
           - Vision Computer
           - Deep Learning
           - RGBD Images
