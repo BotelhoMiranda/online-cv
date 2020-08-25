@@ -18,7 +18,6 @@ sidebar:
     linkedin: /leandrobotelhodemiranda/
     github: botelhoMiranda
     telegram: # add your nickname without '@' sign
-    whatsapp: +55 82 99113-2257
     bitbucket: https://bitbucket.org/leandromiranda/
     twitter: '@leobotelho92'
     stack-overflow: 203285/leandro-miranda # Number/Username, e.g. 123456/alandoe
@@ -57,7 +56,7 @@ career-profile:
 education:
     - degree: PhD in Computer Science
       university: Fluminense Federal University
-      time: 2016 - now
+      time: 2016 - present
       details: |
         Title: A Framework for Adaptive Recognition of Complex Human Activities in Ambient Intelligence
           - Advisor= José Viterbo Filho
@@ -81,43 +80,24 @@ education:
 
 experiences:
     - role: Researcher Enginner 
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2019 - 2020
+      company: ISABO, Lille, France
+      details: | Junior Researcher Enginner
+        He was a Research Engineer in Pattern Recognition and Computer Vision fields. During this period,  his research had been focused on people fall detection issues and object segmentation of RGBD images.
+          - Vision Computer
+          - Deep Learning
+          - RGBD Images
+    - role: Content Teacher
+      time: present
+      company: Sagah, Porto Alegre, RS, Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Content teacher of the learning unit: "Preparation and exploratory data analysis." :
+    - role: Content Teacher
+      time: 2018-2018
+      company: Questóes Discursivas, Rio de Janeiro, RJ, Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
+        Content writer of the book: "Preparation and Exploratory Data Analysis." 
+    projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
@@ -170,23 +150,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python (Pandas, numpy, Tensorflow)
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
 
-      - name: Angular
-        level: 98%
+      - name: C++
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: HTML & CSS
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: PHP
+        level: 50%
 
       - name: Sketch & Photoshop
-        level: 60%
+     
+     - name: Tableau, JMP
+        level: 50%
+
+      - name: Android
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
