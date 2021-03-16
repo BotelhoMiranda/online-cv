@@ -97,7 +97,7 @@ projects:
     intro: >
       You can list his projects (under construction).
     assignments:
-      - title: GestureRecognition
+      - title: Gesture Recognition
         link: "https://www.youtube.com/watch?v=EP59BBtPiHk"
         tagline: "Real-time gesture recognition from depth data and SVM"
 
@@ -120,19 +120,31 @@ skills:
       - name: Javascript & PHP
         level: 50%
     
-      - name: Kubernates (loading)
-        level: 30%
+      - name: Kubernates
+        level: 15%
         
-      - name: Docker (loading)
-        level: 40%
+      - name: Docker
+        level: 20%
         
       - name: JMP, Tableau
-        level: 40%
+        level: 20%
         
       - name: Android
-        level: 30%
+        level: 20%
        
-       
+      - name: MongoDB,Redis
+        level: 20%
+        
+      - name: SQOOP,Hive
+        level: 15%
+        
+      - name: Pig, Flune
+        level: 15%
+        
+      - name: Apache Spark
+        level: 20%
+        
+     
   
 
 
