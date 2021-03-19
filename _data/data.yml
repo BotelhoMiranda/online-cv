@@ -95,11 +95,17 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list his projects (under construction).
+      Leandro Miranda has experience in projects about: Pattern Recognition, Pose Estimation, Geometric Modelling, and Machine Learning. You can see his projects:
     assignments:
       - title: Gesture Recognition
         link: "https://www.youtube.com/watch?v=EP59BBtPiHk"
         tagline: "Real-time gesture recognition from depth data and SVM"
+      - title: Pose Estimation
+        link: "https://youtu.be/6tNlaytW_t0?t=4869"
+        tagline: "Pose Estimation for Fall Detection"
+      - title: Geometric Modelling
+        link: "https://ufal.br/ufal/noticias/2014/09/trabalho-cientifico-sobre-modelagem-geometrica-e-premiado-em-conferencia-de-computacao"
+        tagline: "New Tools for surface deformation using the discrete laplace operator"
 
 skills:
     title: Skills &amp; Proficiency
@@ -130,10 +136,10 @@ skills:
         level: 20%
         
       - name: Android
-        level: 20%
+        level: 10%
        
       - name: MongoDB,Redis
-        level: 20%
+        level: 15%
         
       - name: SQOOP,Hive
         level: 15%
