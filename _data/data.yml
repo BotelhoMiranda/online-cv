@@ -14,14 +14,13 @@ sidebar:
     # Sidebar links
     email: leandrobotelhoalves@gmail.com
     phone: +55 82 99113-2257
-    website: lattes.cnpq.br/6802508864911606  #do not add http://
+    website:  #do not add http://
     linkedin: /leandrobotelhodemiranda/
     github: BotelhoMiranda
     telegram: # add your nickname without '@' sign
     bitbucket: leandromiranda
     #twitter: '@leobotelho92'
     stack-overflow: 203285/leandro-miranda # Number/Username, e.g. 123456/alandoe
-    #lattes: 6802508864911606 
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -62,7 +61,6 @@ education:
         Title: A Framework for Adaptive Recognition of Complex Human Activities in Ambient Intelligence
           - Advisor= José Viterbo Filho
           - Co-advisor= Flávia Bernardini
-
     - degree: Msc in Computer Science
       university: Fluminense Federal University
       time: 2014 - 2016
@@ -70,7 +68,6 @@ education:
         Title: Análise de Clusters com Restrições de Contiguidade Espacial (Clusters Analysis with Spatially Contiguity Constraints).
           - Advisor= José Viterbo Filho
           - Co-advisor= Flávia Bernardini
-
     - degree: BSc in Computer Science
       university: Federal University of Alagoas
       time: 2010 - 2014
