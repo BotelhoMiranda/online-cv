@@ -30,7 +30,7 @@ The time required for a vehicle to travel different routes in the daily traffic 
 <td width="60%" valign="middle"> \
 <p align="justify"> \
 <b><papertitle> Towards the Use of Clustering Algorithms in Recommender Systems </papertitle></b> \
-<a href="https://aisel.aisnet.org/amcis2020/ai_semantic_for_intelligent_info_systems/ai_semantic_for_intelligent_info_systems/21/"> <br> Link of Event</a> \
+<a href="https://aisel.aisnet.org/amcis2020/ai_semantic_for_intelligent_info_systems/ai_semantic_for_intelligent_info_systems/21/"> <br> Link of the Event</a> \
 <br><br> \
 Recommender Systems have been intensively used in Information Systems in the last decades, facilitating the choice of items individually for each user based on your historical. Clustering techniques have been frequently used in commercial and scientific domains in data mining tasks and visualization tools. However, there is a lack of secondary studies in the literature that analyze the use of clustering algorithms in Recommender Systems and their behavior in different aspects. In this work, we present a Systematic Literature Review (SLR), which discusses the different types of information systems with the use of the clustering algorithm in Recommender Systems, which typically involves three main recommendation approaches found in literature: collaborative filtering, content-based filtering, and hybrid recommendation. In the end, we did a quantitative analysis using K-means clustering for finding patterns between clustering algorithms, recommendation approaches, and some datasets used in their publications.</p> \
 </td></tr> \
