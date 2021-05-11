@@ -24,7 +24,7 @@ The time required for a vehicle to travel different routes in the daily traffic 
 <td width="250" valign="middle"> \
 <td width="250" valign="top"> \
 <video width="350" height="250" controls> \
-    <source src="images/amcis2020.mp4" type="video/mp4"> \
+    <source src="images/amcis2020.mp4" type="video/mov"> \
 </video> \
 </a>\
 <td width="60%" valign="middle"> \
