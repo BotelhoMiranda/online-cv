@@ -299,6 +299,42 @@
                     <p></p>
                   </td>
                 </tr> 
+		  
+		  <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">
+                  <td style="padding:20px;width:25%;vertical-align:middle">
+                    <div class="one">
+                      <div class="two" id='nerf_image'><video  width=100% height=100% muted autoplay loop>
+                      <source src="images/ahr.gif" type="video/mp4">
+                      Your browser does not support the video tag.
+                      </video></div>
+                      <img src='images/ahr.gif' width="160">
+                    </div>
+                    <script type="text/javascript">
+                      function nerf_start() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+      
+                      function nerf_stop() {
+                        document.getElementById('nerf_image').style.opacity = "0";
+                      }
+                      nerf_stop()
+                    </script>
+                  </td>
+      
+                  
+                  <td style="padding:20px;width:75%;vertical-align:middle">
+                    <a href="https://ieeexplore.ieee.org/document/8247025">
+                      <papertitle>A framework for spatial regionalization composed of novel clustering‐based algorithms under spatial contiguity constraints.</papertitle>
+                    </a>
+                    <br>
+                    <strong>Leandro Miranda</strong><br>
+                    <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12903">pdf</a><br>
+                    <em>TGIS,2022</em> <p></p>
+          
+      
+                    <p></p>
+                  </td>
+                </tr> 
       
                 
               </tbody></table>
